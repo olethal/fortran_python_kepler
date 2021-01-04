@@ -11,3 +11,6 @@ rk2.f
 rk2.f90
 rk2.py
 runge_kutta_1.c
+*.txt
+a.out
+random.f90
